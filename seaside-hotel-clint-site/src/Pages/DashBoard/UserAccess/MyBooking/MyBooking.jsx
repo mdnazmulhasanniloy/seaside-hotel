@@ -79,7 +79,6 @@ const currentItems = items.slice(indexOfFirstItem, indexOfLastItem);
     if (isLoading) {
         return <Spanner />
     }
-console.log(myBookings.index)
     return (
         <div className="h-screen w-screen bg-cover bg-center bg-no-repeat overflow-y-scroll
         relative" 

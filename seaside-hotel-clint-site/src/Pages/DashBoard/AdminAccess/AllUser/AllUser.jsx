@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import { useQuery } from '@tanstack/react-query';
 import AllUserTable from './AllUserTable/AllUserTable';
 import { toast } from 'react-hot-toast';
+import Spanner from './../../../Shared/Spanner/Spanner';
+import background from '../../../../Assets/BookingPageBG/BookingPageBG.jpg'
+import { Pagination } from 'swiper';
 
 const AllUser = () => {
     
@@ -83,7 +86,11 @@ const currentItems = items.slice(indexOfFirstItem, indexOfLastItem);
     }
 
     return (
-        <div>
+    <div className="h-screen w-screen bg-cover bg-center bg-no-repeat overflow-y-scroll
+    relative" 
+    style={{background: `url(${background})`}}>
+
+        <div className="w-11/12 mx-auto mt-36">
             <div className="mb-4 border-b border-gray2-00 dark:border-gray-700">
                 <ul className="flex flex-wrap -mb-px text-lg  justify-between px-40 font-medium text-center" id="myTab" data-tabs-toggle="#myTabContent" role="tablist">
                     <li className="mr-2" role="presentation">
@@ -140,6 +147,7 @@ const currentItems = items.slice(indexOfFirstItem, indexOfLastItem);
                     </div> 
                 }
             </div>
+        </div>
         </div>
     );
 };
