@@ -1,0 +1,68 @@
+[
+    {
+        "title":"STANDARD ROOM",
+        "people": 2,
+        "size": 30,
+        "standardPrice": 79,
+        "premiumPrice": 100,
+        "img": "https://i.ibb.co/HDFzhWG/1.jpg",
+        "facilities": "48 HD TV with more than 60 channels.Coffee and tea makers. Hot & cold bathing. High comfortable mattress bed. Hight quality bed sheets. Free WIFI internet connection. Connecting room by request",
+        "discretion": "Amet nulla officia duis reprehenderit do labore aute pariatur anim consequat ullamco elit in duis incididunt eu officia do voluptate anim nulla officia id cillum esse in velit anim dolor enim exercitation veniam do deserunt dolor in id dolor culpa reprehenderit aute cillum amet sunt mollit incididunt quis qui ut enim adipisicing nostrud aliquip esse nostrud duis enim nisi id in est ea incididunt pariatur non aute ullamco dolor est duis ut sint magna sint laboris dolore nulla et ut reprehenderit dolore consequat magna aliqua dolor in cupidatat ut consequat amet eiusmod qui adipisicing deserunt ullamco est mollit mollit tempor cillum enim est consectetur pariatur nulla fugiat deserunt dolore nisi laboris pariatur et nisi fugiat dolore cupidatat id consectetur aliqua in adipisicing enim in ullamco do id sit nulla sint ea ea pariatur adipisicing dolor tempor dolor eiusmod non."
+        
+    },
+    {
+        "title":"DELUXE ROOM",
+        "people": 2,
+        "size": 35,
+        "standardPrice": 70,
+        "premiumPrice": 90,
+        "img": "https://i.ibb.co/pKB0q64/2.jpg",
+        "facilities": "48 HD TV with more than 60 channels. Coffee and tea makers. Hot & cold bathing. High comfortable mattress bed.  Hight quality bed sheets. Free WIFI internet connection. Connecting room by request",
+        "discretion" : "Amet nulla officia duis reprehenderit do labore aute pariatur anim consequat ullamco elit in duis incididunt eu officia do voluptate anim nulla officia id cillum esse in velit anim dolor enim exercitation veniam do deserunt dolor in id dolor culpa reprehenderit aute cillum amet sunt mollit incididunt quis qui ut enim adipisicing nostrud aliquip esse nostrud duis enim nisi id in est ea incididunt pariatur non aute ullamco dolor est duis ut sint magna sint laboris dolore nulla et ut reprehenderit dolore consequat magna aliqua dolor in cupidatat ut consequat amet eiusmod qui adipisicing deserunt ullamco est mollit mollit tempor cillum enim est consectetur pariatur nulla fugiat deserunt dolore nisi laboris pariatur et nisi fugiat dolore cupidatat id consectetur aliqua in adipisicing enim in ullamco do id sit nulla sint ea ea pariatur adipisicing dolor tempor dolor eiusmod non."
+        
+    },
+    {
+        "title":"PREMIER ROOM",
+        "people": 3,
+        "size": 40,
+        "standardPrice": 90,
+        "premiumPrice": 120,
+        "img": "https://i.ibb.co/sKkv9Rz/3.jpg",
+        "facilities": "48 HD TV with more than 60 channels. Coffee and tea makers. Hot & cold bathing. High comfortable mattress bed. Hight quality bed sheets. Free WIFI internet connection. Connecting room by request",
+        "discretion" : "Amet nulla officia duis reprehenderit do labore aute pariatur anim consequat ullamco elit in duis incididunt eu officia do voluptate anim nulla officia id cillum esse in velit anim dolor enim exercitation veniam do deserunt dolor in id dolor culpa reprehenderit aute cillum amet sunt mollit incididunt quis qui ut enim adipisicing nostrud aliquip esse nostrud duis enim nisi id in est ea incididunt pariatur non aute ullamco dolor est duis ut sint magna sint laboris dolore nulla et ut reprehenderit dolore consequat magna aliqua dolor in cupidatat ut consequat amet eiusmod qui adipisicing deserunt ullamco est mollit mollit tempor cillum enim est consectetur pariatur nulla fugiat deserunt dolore nisi laboris pariatur et nisi fugiat dolore cupidatat id consectetur aliqua in adipisicing enim in ullamco do id sit nulla sint ea ea pariatur adipisicing dolor tempor dolor eiusmod non"
+        
+    },
+    {
+        "title":"FAMILY SUITE",
+        "people": 3,
+        "size": 40,
+        "standardPrice": 80,
+        "premiumPrice": 110,
+        "img": "https://i.ibb.co/c6KZ5Q3/4.jpg",
+        "facilities": "48 HD TV with more than 60 channels. Coffee and tea makers. Hot & cold bathing. High comfortable mattress bed. Hight quality bed sheets. Free WIFI internet connection. Connecting room by reques",
+        "discretion" : "Amet nulla officia duis reprehenderit do labore aute pariatur anim consequat ullamco elit in duis incididunt eu officia do voluptate anim nulla officia id cillum esse in velit anim dolor enim exercitation veniam do deserunt dolor in id dolor culpa reprehenderit aute cillum amet sunt mollit incididunt quis qui ut enim adipisicing nostrud aliquip esse nostrud duis enim nisi id in est ea incididunt pariatur non aute ullamco dolor est duis ut sint magna sint laboris dolore nulla et ut reprehenderit dolore consequat magna aliqua dolor in cupidatat ut consequat amet eiusmod qui adipisicing deserunt ullamco est mollit mollit tempor cillum enim est consectetur pariatur nulla fugiat deserunt dolore nisi laboris pariatur et nisi fugiat dolore cupidatat id consectetur aliqua in adipisicing enim in ullamco do id sit nulla sint ea ea pariatur adipisicing dolor tempor dolor eiusmod non"
+        
+    },
+    {
+        "title":"LUXURY SUITE",
+        "people": 4,
+        "size": 60,
+        "standardPrice": 100,
+        "premiumPrice": 130,
+        "img": "https://i.ibb.co/tpkVPdN/5.jpg",
+        "facilities": "48 HD TV with more than 60 channels. Coffee and tea makers. Hot & cold bathing. High comfortable mattress bed. Hight quality bed sheets. Free WIFI internet connection. Connecting room by reques",
+        "discretion" : "Amet nulla officia duis reprehenderit do labore aute pariatur anim consequat ullamco elit in duis incididunt eu officia do voluptate anim nulla officia id cillum esse in velit anim dolor enim exercitation veniam do deserunt dolor in id dolor culpa reprehenderit aute cillum amet sunt mollit incididunt quis qui ut enim adipisicing nostrud aliquip esse nostrud duis enim nisi id in est ea incididunt pariatur non aute ullamco dolor est duis ut sint magna sint laboris dolore nulla et ut reprehenderit dolore consequat magna aliqua dolor in cupidatat ut consequat amet eiusmod qui adipisicing deserunt ullamco est mollit mollit tempor cillum enim est consectetur pariatur nulla fugiat deserunt dolore nisi laboris pariatur et nisi fugiat dolore cupidatat id consectetur aliqua in adipisicing enim in ullamco do id sit nulla sint ea ea pariatur adipisicing dolor tempor dolor eiusmod non"
+        
+    },
+    {
+        "title":"PRESIDENTIAL SUITE",
+        "people": 4,
+        "size": 70,
+        "standardPrice": 120,
+        "premiumPrice": 150,
+        "img": "https://i.ibb.co/pJMZKxZ/6.jpg",
+        "facilities": "48 HD TV with more than 60 channels. Coffee and tea makers. Hot & cold bathing. High comfortable mattress bed. Hight quality bed sheets. Free WIFI internet connection. Connecting room by reques",
+        "discretion" : "Amet nulla officia duis reprehenderit do labore aute pariatur anim consequat ullamco elit in duis incididunt eu officia do voluptate anim nulla officia id cillum esse in velit anim dolor enim exercitation veniam do deserunt dolor in id dolor culpa reprehenderit aute cillum amet sunt mollit incididunt quis qui ut enim adipisicing nostrud aliquip esse nostrud duis enim nisi id in est ea incididunt pariatur non aute ullamco dolor est duis ut sint magna sint laboris dolore nulla et ut reprehenderit dolore consequat magna aliqua dolor in cupidatat ut consequat amet eiusmod qui adipisicing deserunt ullamco est mollit mollit tempor cillum enim est consectetur pariatur nulla fugiat deserunt dolore nisi laboris pariatur et nisi fugiat dolore cupidatat id consectetur aliqua in adipisicing enim in ullamco do id sit nulla sint ea ea pariatur adipisicing dolor tempor dolor eiusmod non"
+        
+    }
+]
