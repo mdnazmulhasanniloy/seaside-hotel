@@ -1,7 +1,8 @@
 import { useLocation, Navigate } from 'react-router-dom';
-import useAdmin from './../../Hooks/useAdmin';
 import { useContext } from "react";
 import { AuthContext } from './../Context/AuthProvider';
+import Spanner from '../Pages/Shared/Spanner/Spanner';
+import useAdmin from '../Hooks/useAdmin';
 
 
 const AdminRoute = ({ children }) => {
@@ -12,7 +13,7 @@ const AdminRoute = ({ children }) => {
 
 
     if (loading || isAdminLoading) {
-        return <Spanner2 />
+        return <Spanner />
     }
 
     if (user && isAdmin) {

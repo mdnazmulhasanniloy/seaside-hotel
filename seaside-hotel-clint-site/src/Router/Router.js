@@ -6,6 +6,7 @@ import PrivateRoutes from "./PrivateRoutes";
 import AllUser from './../Pages/DashBoard/AdminAccess/AllUser/AllUser';
 import MyBooking from "../Pages/DashBoard/UserAccess/MyBooking/MyBooking";
 import PrivateRoutLogin from './../Pages/Login/PrivateRoutLogin';
+import AdminRoute from "./AdminRouters";
 
 
 
@@ -30,7 +31,7 @@ export const Router = createBrowserRouter([
             },
             {
                 path: '/allUsers',
-                element: <AdminRouter><AllUser /></AdminRouter>
+                element: <AdminRoute><AllUser /></AdminRoute>
             },
             {
                 path: '/myBooking',
