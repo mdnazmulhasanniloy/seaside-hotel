@@ -40,7 +40,7 @@ const MyBooking = () => {
 
    const handelDelete = id =>{
     setLoader(true)
-    fetch(`http://localhost:2000/MyBooking/delete/${id}`, {
+    fetch(`https://seaside-hotel-sarver.vercel.app/MyBooking/delete/${id}`, {
             method: 'DELETE',
             headers: {
                 authorization: `bearer ${localStorage.getItem('accessToken')}`

@@ -17,7 +17,7 @@ const AllUser = () => {
     const { data: users = [], refetch, isLoading } = useQuery({
         queryKey: ['users', toggleTab],
         queryFn: async () => {
-            const res = await fetch(`http://localhost:2000/allUser/${toggleTab}`,{
+            const res = await fetch(`https://seaside-hotel-sarver.vercel.app/allUser/${toggleTab}`,{
                 headers: {
                     authorization: `bearer ${localStorage.getItem('accessToken')}`
                 }
@@ -31,7 +31,7 @@ const AllUser = () => {
 
     //delete user 
     const handelToDelete = (id) => {
-        fetch(`http://localhost:2000/user/delete/${id}`, {
+        fetch(`https://seaside-hotel-sarver.vercel.app/user/delete/${id}`, {
             method: 'DELETE',
             headers: {
                 authorization: `bearer ${localStorage.getItem('accessToken')}`
@@ -54,7 +54,7 @@ const AllUser = () => {
     //verify user
 
     const handelToVerified = (id) => {
-        fetch(`http://localhost:2000/user/role/${id}`, {
+        fetch(`https://seaside-hotel-sarver.vercel.app/user/role/${id}`, {
             method: 'PUT',
             headers: {
                 authorization: `bearer ${localStorage.getItem('accessToken')}`
